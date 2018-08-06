@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Titillium+Web');
+body{
+    font-family: 'Open Sans', sans-serif; 
+}
+h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: #D62D2D;
+}
+.navbar {
+    text-transform: uppercase;
+}
+p.text-info{
+    font-size: 15px;
+    text-align: left;
+    color: gray;
+    position: relative;
+    top: 15px;
+}
